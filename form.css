@@ -1,0 +1,29 @@
+button {
+    margin-top: 1.5rem;
+  }
+  
+  label {
+    display: block;
+    margin-top: 0.5rem;
+  }
+
+  body {
+    background-color: mintcream;
+    margin: 100px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  
+  footer {
+    text-align: center;
+    margin-top: 18rem;
+    
+  }
+  div {
+    text-align: center;
+  }
+  h2 {
+    text-align: center;
+  }
+
+
+ 

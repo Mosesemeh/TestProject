@@ -1,0 +1,37 @@
+body {
+    background-image: url(backapple.jpg.jpg);
+    background-repeat: no-repeat;
+    height: 100vh;
+    margin: 0px;
+    background-position: center;   
+    display: block; 
+    justify-content: center;
+}
+
+div {
+    background-color: mintcream;
+    opacity: 0.8;
+    background-size: cover;
+    height: 100vh;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: block;
+    text-align: grid;
+    
+}
+
+h1  {
+    border-bottom: 2px solid plum;
+    text-align: center;
+    font-style: italic;
+    justify-content: center;
+}
+
+img {
+    transition: all 0.5s;
+
+}
+
+img:hover {
+    transform: scale(1.3);
+}
+
