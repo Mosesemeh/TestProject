@@ -35,3 +35,11 @@ img:hover {
     transform: scale(1.3);
 }
 
+a {
+    font-size: 1.5rem;
+}
+
+footer {
+    font-size: 1.5rem;
+    text-align: center;
+}
