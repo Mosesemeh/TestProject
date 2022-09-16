@@ -1,0 +1,65 @@
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-size: cover;
+    margin: 0%;
+    background-color: black;
+    height: 100%;
+    width: 100%;
+}
+
+hr {
+    max-width: 45px;
+    border-width: 1px;
+    border-color: #F05F44;
+}
+
+.faded {
+    color: rgba(255, 255, 255, 0.8);
+    background-color: black;
+    height: 10rem;
+    margin-top: 10rem;
+}
+
+header.startup {
+    background-image: url(laptop.jpg.jpg);
+    background-position: center;
+    text-align: center;
+    margin: 0%;
+    background-repeat: no-repeat;
+}
+
+
+hr {
+    margin-top: 7rem;
+    margin-bottom: 3rem;
+}
+
+header.startup h1 {
+    font-size: 2rem;
+}
+
+.btn {
+    font-weight: 700;
+    text-transform: uppercase;
+    border-radius: 300px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.btn-xl {
+    padding: 0.5rem 1rem;
+}
+
+.btn-primary {
+    background-color: #F05F44;
+    border-color: #F05F44;
+}
+
+.btn-primary:hover {
+    background-color: #ee4b08;
+    border-color: #ee4b08;
+}
+
+a {
+    color: aliceblue;
+}
